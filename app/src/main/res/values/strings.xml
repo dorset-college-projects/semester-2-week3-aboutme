@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">John Rowley</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio"><b>Humpty Dumpty</b> sat on a wall,\nHumpty Dumpty had a great <i>fall</i>.\nAll the king\'s horses and all the king\'s men\nCouldn\'t put Humpty together again.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+
+</resources>
